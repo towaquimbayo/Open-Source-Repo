@@ -1,6 +1,6 @@
-# Contributing to MyMind
+# Contributing to %RepoAppName%
 
-A big welcome and thank you for considering contributing to MyMind! It’s people like you that make it a reality for users in our community.
+A big welcome and thank you for considering contributing to %RepoAppName%! It’s people like you that make it a reality for users in our community.
 
 Reading and following these guidelines will help us make the contribution process easy and effective for everyone involved. It also communicates that you agree to respect the time of the developers managing and developing these open source projects. In return, we will reciprocate that respect by addressing your issue, assessing changes, and helping you finalize your pull requests.
 
@@ -22,7 +22,7 @@ We take our open source community seriously and hold ourselves and other contrib
 
 Contributions are made to this repo via Issues and Pull Requests (PRs). A few general guidelines that cover both:
 
-* To report security vulnerabilities, please contact at <towacurtis@hotmail.com> with `MyMind on GitHub - Security Vulnerability` as the subject.
+* To report security vulnerabilities, please contact at <towacurtis@hotmail.com> with `%RepoAppName% on GitHub - Security Vulnerability` as the subject.
 * Search for existing Issues and PRs before creating your own.
 * We work hard to makes sure issues are handled in a timely manner but, depending on the impact, it could take a while to investigate the root cause. A friendly ping in the comment thread to the submitter or a contributor can help draw attention if your issue is blocking.
 * If you've never contributed before, feel free to reach out for tips on how to get started.
@@ -57,4 +57,4 @@ In general, we follow the ["fork-and-pull" Git workflow](https://github.com/susa
 
 ## Getting Help
 
-Join us in the [Discussions](https://github.com/towaquimbayo/MyMind/discussions) and post your question there in the correct category with a descriptive tag.
+Join us in the [Discussions](https://github.com/towaquimbayo/%RepoAppName%/discussions) and post your question there in the correct category with a descriptive tag.

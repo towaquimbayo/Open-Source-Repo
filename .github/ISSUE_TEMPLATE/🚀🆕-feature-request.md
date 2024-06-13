@@ -9,8 +9,8 @@ assignees: ''
 
 ## **Checklist**
 
-- [ ] I have searched both open and closed [MyMind Issues](https://github.com/towaquimbayo/MyMind/issues) and have not found a suitable solution or answer.
-- [ ] I agree to the terms within the [MyMind Code of Conduct](https://github.com/towaquimbayo/MyMind/blob/main/CODE_OF_CONDUCT.md).
+- [ ] I have searched both open and closed [%RepoAppName% Issues](https://github.com/towaquimbayo/%RepoAppName%/issues) and have not found a suitable solution or answer.
+- [ ] I agree to the terms within the [%RepoAppName% Code of Conduct](https://github.com/towaquimbayo/%RepoAppName%/blob/main/CODE_OF_CONDUCT.md).
 
 ## **Is your feature request related to a problem? Please describe.**
 
