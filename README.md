@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=towaquimbayo.Open-Source-Repo" />
+
 # Open-Source Repository Template
 
 Template for creating new Open-Source repositories that follow common Open-Source guidelines.
