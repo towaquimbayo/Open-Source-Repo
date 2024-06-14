@@ -35,4 +35,4 @@ Towa Quimbayo [GitHub](https://github.com/towaquimbayo) [LinkedIn](https://www.l
 
 Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are __extremely appreciated__.
 
-For more details, please refer to [CONTRIBUTING.md](CONTRIBUTING.md)
+For more details, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
