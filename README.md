@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=towaquimbayo.Open-Source-Repo" />
+<img align="right" alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=towaquimbayo.Open-Source-Repo" />
 
 # Open-Source Repository Template
 
